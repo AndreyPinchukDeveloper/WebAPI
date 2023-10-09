@@ -1,6 +1,6 @@
 ﻿namespace WebAPI.Domain.Models
 {
-    public class Document
+    public class DocumentModel
     {
         public Guid Id { get; set; }
         public DateTime CreationDate { get; set; }
